@@ -1,5 +1,6 @@
 Given an array of integers and targets.return indexes of two number such that sum of those two numbers will be equal to target.
 
+Topics - Hash
 
 Example1
   Input: nums = [2,7,11,15], target = 9
